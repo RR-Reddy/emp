@@ -4,11 +4,12 @@ Employee information mobile app
 
 ## Getting Started
 
-flutter version: 3.7.6
+Flutter version: 3.7.6
 
-run commands:
+Run commands:
 
  flutter pub get
  flutter run
 
+Android apk file available under files directory.
 
