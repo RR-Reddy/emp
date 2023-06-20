@@ -7,6 +7,7 @@ Employee information mobile app
 flutter version: 3.7.6
 
 run commands:
+
  flutter pub get
  flutter run
 
